@@ -1,5 +1,5 @@
 # First Reflection
-[Back to Homepage](./main/index.md)
+[Back to Homepage](https://kimhclassroom.github.io/Nusaibas-Portfolio-Site/)
 What I learned this week (bullets are fine, you may include an image):
 
 - Topic(s):
