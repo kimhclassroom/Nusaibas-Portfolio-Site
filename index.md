@@ -4,6 +4,9 @@ Welcome to my ICS4U portfolio. I’ll use this site to post my work and reflecti
 ## About me
 - I enjoy reading, photography, and writing
 - Some of my favourite authors are L. M. Montegomery, Anne Bronte and Agatha Christe
+
+!['Agnes Grey' Cover](./assets/Agnes-Grey-Cover.png)  !['Crooked House' Cover](./assets/Crooked-House-Cover.png)  !['The Blue Castle' Cover](./assets/The-Blue-Castle-Cover.png)
+  
 - In the future I hope to study Neuroscience
 - I am taking Computer Science because I believe an understanding of programming languages and logic structures also helps in understanding the human brain
 - I have experience using Python and Java
